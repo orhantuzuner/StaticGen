@@ -114,7 +114,7 @@ MIT License - Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ## 👨‍💻 Geliştirici
 
-**Adınız** - [@github_username](https://github.com/github_username)
+[@orhantuzuner](https://github.com/orhantuzuner)
 
 ## 🙏 Teşekkürler
 

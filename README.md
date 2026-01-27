@@ -14,7 +14,7 @@ SEO-friendly, çoklu dil destekli şirket web sitesi üreticisi. Sadece JSON dos
 ## 🚀 Hızlı Başlangıç
 ```bash
 # Projeyi klonla
-git clone https://github.com/KULLANICI_ADIN/staticgen-nextjs.git
+git clone https://github.com/orhantuzuner/staticgen-nextjs.git
 cd staticgen-nextjs
 
 # Bağımlılıkları yükle
